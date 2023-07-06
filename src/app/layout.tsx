@@ -8,6 +8,8 @@ export const metadata = {
   description: "Engineer at Veed.io",
 };
 
+export const runtime = "edge";
+
 export default function RootLayout({
   children,
 }: {
