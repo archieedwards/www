@@ -15,7 +15,7 @@ export default function Home() {
           <h1 className="text-lg sm:text-xl font-medium">Archie Edwards</h1>
           <p className="mt-[0.5px] sm:mt-1 text-sm sm:text-base">
             Senior Growth Engineer at{" "}
-            <a href="https://veed.io" className="text-slate-500">
+            <a href="https://veed.io" className="text-slate-500 underline">
               Veed.io
             </a>
           </p>
